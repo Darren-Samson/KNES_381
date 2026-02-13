@@ -1,1 +1,3 @@
-<font size=15><b><strong> Hopefully they get enough H<sub>2</sub>O! </b> </strong> </font>
+<html>
+<span style="color:#f85149;"><b>Hopefully they get enough H<sub>2</sub>O! </b> </span>
+</html>
