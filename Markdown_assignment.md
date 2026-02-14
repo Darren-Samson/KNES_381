@@ -5,6 +5,8 @@
 <p align="center"> 
 <em><b><a href="https://www.hockeycanada.ca/en-ca/team-canada/men/olympics/2026">Go Canada Go!</a></b></em>
 <br>
- <i><a href="Readme.md">H<sub>2</sub>O</a></i> 
+ <i><a href="Readme.md">H<sub>2</sub>O</a></i>
+  <br>
+  <a href="Myfolder/GOLD2026.jpg">Gold</a>
 </p>
 </html>
