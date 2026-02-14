@@ -23,3 +23,5 @@
   <td>18.994g/mmol</td>
   </tr>
 </table>
+<tr>O = 1.008g/mmol · 2 + 15.9994g/mol H = 18.0154</tr>
+</html>
