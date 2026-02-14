@@ -1,7 +1,7 @@
-<span style="color:#f85149;"><b>Hopefully they get enough H<sub>2</sub>O! </b> </span>
+<span style="color:#f85149;"><em><b>Hopefully they get enough H<sub>2</sub>O!<b></em> </span>
 
 <table border="1">
-<caption><strong> H<sub>2</sub>O<strong><caption>
+<caption><strong><b>H<sub>2</sub>O</b><strong><caption>
   <tr>
     <th>Name</th>
     <th>Atom symbol</th>
