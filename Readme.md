@@ -10,7 +10,7 @@
   <tr>
     <td>Hydrogen</td>
     <td>H</td>
-    <td>1.008g/mmol</td>
+    <td>1.008g/mmol · 2</td>
   </tr>
   <tr>
     <td>Oxygen</td>
@@ -20,8 +20,8 @@
   <tr>
   <td>total</td>
   <td>H<sub>2</sub>O</td>
-  <td>18.994g/mmol</td>
+  <td>18.015g/mmol</td>
   </tr>
 </table>
-<tr>O = 1.008g/mmol · 2 + 15.9994g/mol H = 18.0154</tr>
+<tr>O = 1.008g/mmol · 2 + H = 15.9994g/mol H<sub>2</sub>O = 18.015</tr>
 </html>
