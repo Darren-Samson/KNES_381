@@ -3,8 +3,8 @@
 <img src="Hockey_Canada.svg" alt="Hockey Canada Pic" width="200" height="400" Align = "right">
 <br><br><br>
 <p align="center"> 
-<a href="https://www.hockeycanada.ca/en-ca/team-canada/men/olympics/2026">Go Canada Go!</a> 
+<b><a href="https://www.hockeycanada.ca/en-ca/team-canada/men/olympics/2026">Go Canada Go!</a></b>
 <br>
-<a href="Readme.md">H<sub>2</sub>O</a> 
+ <i><a href="Readme.md">H<sub>2</sub>O</a></i> 
 </p>
 </html>
